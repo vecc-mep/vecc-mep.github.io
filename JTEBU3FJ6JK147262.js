@@ -38,7 +38,7 @@ function pushThree () {
     alert('发动机编号与信息公开不符！');
     return;
   } else {
-    location.href = './JTEBU3FJ6JK147262Val.html'
+    location.href = './JTEBU3FJ6JK147262Val'
   }
 }
 
